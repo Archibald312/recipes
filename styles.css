@@ -1,0 +1,42 @@
+div {
+    color: white;
+    background-color: black;
+  }
+  
+  p {
+    color: red;
+  }
+  p.odd {
+    color: black;
+    background-color: red;
+    font-size: 24px;
+  }
+  #two {
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+  }
+  #four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+  }
+  .odd.cooler {
+    font-size: 60px;
+  }
+  .click-me {
+    background-color: black;
+    color: white;
+  }
+  .no-click-me {
+    background-color: yellow;
+  }
+  .click-me, .no-click-me {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+  }
+  img {
+    width: 600px;
+  }
+  

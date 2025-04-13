@@ -1,6 +1,6 @@
 div {
     color: white;
-    background-color: black;
+    background-color: white;
   }
   
   p {
@@ -39,4 +39,14 @@ div {
   img {
     width: 600px;
   }
-  
+  .main {
+    color: red;
+  }
+  .list {
+    color: blue
+  }
+  #subsection {
+    color: green;
+  }
+
+
